@@ -1,0 +1,35 @@
+.content6{
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+}
+
+.content6 div{
+	float: left;
+	width: 448px;
+	height: 525px;
+	text-align: center;
+}
+
+.content6 p{
+	font-size: 25px;
+	color: white;
+	padding-top: 200px;
+}
+
+.content6 hr{
+	width: 25px;
+	text-align: center;
+	margin-top: 25px;
+	margin-left: 200px;
+}
+
+.content6 button{
+	background-color: rgb(231,79,77);
+	font-size: 15px;
+	color: white;
+	padding: 15px 20px;
+	border: none;
+	border:1px solid white;
+	margin-top: 20px;
+}

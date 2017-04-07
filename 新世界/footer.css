@@ -1,0 +1,52 @@
+footer{
+	background-color: rgb(50,54,63);
+	height: 420px;
+}
+
+footer p{
+	color: white;
+	padding-top: 100px;
+	text-align: center;
+	font-size: 25px;
+	font-family: "楷体";
+}
+
+.text{
+	font-size: 15px;
+	padding-top: 10px;
+}
+
+footer input{
+	width: 450px;
+	height: 40px;
+	margin-top: 20px;
+	margin-left: 400px;
+	margin-right: 0px;
+	/*padding-top: 20px;*/
+}
+
+footer button{
+	width: 70px;
+	height: 45px;
+	margin-left: 0px;
+	background-color: rgb(111,113,120);
+	color: white;
+	border:none;
+}
+
+footer img{
+	width: 30px;
+	height: 30px;
+	margin-left: 20px;
+}
+
+footer div{
+	margin-left: 550px;
+	margin-top: 20px;
+}
+
+.foot{
+	text-align: left;
+	margin-left: 30px;
+	font-size: 15px;
+}

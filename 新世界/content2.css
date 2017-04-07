@@ -1,0 +1,22 @@
+.content2{
+	overflow: hidden;
+}
+
+.content2 img{
+	margin: 45px 145px;
+}
+
+.content2 p{
+	float: left;
+	display: inline;
+	text-align: center;
+	margin-right: 80px;
+	margin-left: 80px;
+	margin-bottom: 45px;
+}
+
+.content2 hr{
+	width: 1px;
+	height: 45px;
+	float: left;
+}

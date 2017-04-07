@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.top{
+	overflow: hidden;
+	/*border: 2px solid;*/
+}
+
+.top img{
+	width: 31px;
+	height: 31px;
+	margin-top: 15px;
+	margin-left: 59px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+.top h3{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	font-family: "Microsoft Yahei";
+	font-size: 20px;
+	float: left;
+}
+
+.top ul{
+	float: right;
+	list-style:none;
+	margin-top: 20px;
+	margin-right: 70px;
+	/*border: 2px solid;*/
+}
+
+.top li{
+	float: left;
+	margin-right: 50px;
+}
+
+.top a{
+	text-decoration: none;
+	color: grey;
+	font-family: "Microsoft Yahei";
+}
+
+.top a:hover{
+	border-bottom: 5px solid #ee2020;
+	padding-bottom: 20px;
+}

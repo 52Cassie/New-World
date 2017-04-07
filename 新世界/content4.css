@@ -1,0 +1,35 @@
+.content4{
+	background-image: url("看地图.jpg");
+	background-repeat: no-repeat; 
+	background-size: 1440px 340px; 
+	padding-bottom: 60px;
+}
+
+.content4 p{
+	text-align: center;
+	color: white;
+	font-size: 5px;
+	padding-top: 50px;
+}
+
+.content4 hr{
+	width: 5%;
+	color: white;
+	margin: 10px auto;
+}
+
+.content4 select{
+	margin: 30px 10px;
+	width: 200px;
+	height: 30px;
+	text-align: center;
+}
+
+.content4 button{
+	margin: 30px 10px;
+	width: 200px;
+	height: 30px;
+	text-align: center;
+	background-color: #be4e48;
+	border: none;
+}

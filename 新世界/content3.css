@@ -1,0 +1,18 @@
+.content3{
+	background-color: #ededed;
+	padding-bottom: 50px;
+}
+
+.content3 img{
+	width: 95px;
+	height: 90px;
+	margin-top: 90px;
+	margin-left: 650px; 
+}
+
+.content3 p{
+	font-size: 50px;
+	margin-top: 50px;
+	text-align: center;
+	color: #a1a1a1;
+}
